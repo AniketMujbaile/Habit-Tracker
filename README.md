@@ -1,7 +1,7 @@
 ## Habit-Tracker React
- React app to start tracking habits for next seven days. we can add, delete and change status of each habit for a day. All habits are stored in localStorage so no worries about getting habits lost. Implement state using redux-toolkit and styled components using react-bootstrap. And always no login/signup to keep simple and quick enough.!
-[habit-tracker1](https://github.com/AniketMujbaile/Habit-Tracker/blob/main/Image/Image1.png)
-![habit_tracker2](https://github.com/AniketMujbaile/Habit-Tracker/blob/main/Image/Image2.png)
+ React app to start tracking habits for next seven days. we can add, delete and change status of each habit for a day. All habits are stored in localStorage so no worries about getting habits lost. Implement state using redux-toolkit and styled components using react-bootstrap. And always no login/signup to keep simple and quick enough.
+ ![habit_tracker2](https://github.com/AniketMujbaile/Habit-Tracker/blob/main/Image/Image1.png)
+ ![habit_tracker2](https://github.com/AniketMujbaile/Habit-Tracker/blob/main/Image/Image2.png)
  
 
 # Getting Started with Create React App
